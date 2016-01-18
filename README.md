@@ -1,4 +1,4 @@
 python
 ======
 
-recieve
+receive
